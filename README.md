@@ -1,6 +1,6 @@
 <b>Hi, I’m Shubha! 🌱</b> 
 
-- I work as a Rendering Technical Director at Pixar Animation Studios.
+- I work as a Technical Director with the rendering team at Pixar Animation Studios.
 - I recently finished my bachelor's and master's in Electrical Engineering and Computer Sciences with a focus in Computer Graphics at UC Berkeley.
 - I'm passionate about technology, the arts, education, and entrepreneurship. 
 
