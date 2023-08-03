@@ -1,10 +1,4 @@
-<b>Hi, I’m Shubha! 🌱</b> 
-
-- I work as a Lead Technical Director at Pixar Animation Studios.
-- I studied Electrical Engineering and Computer Sciences (B.S. & M.Eng) with a focus in Computer Graphics at UC Berkeley.
-- I'm passionate about technology, the arts, education, and entrepreneurship. 
-
-<b>Email</b>: jagannatha.shubha@gmail.com</br>
+<b>Hi, I’m Shubha!</b> 
 <b>Website</b>: <a href='https://shubhaj.com/'>shubhaj.com</a>
 
 <!---
